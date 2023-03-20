@@ -1,0 +1,22 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.button {
+  color: rgb(179, 105, 179);
+  background-color: rgb(98, 17, 98);
+  margin: 40px 40%;
+  height: 70px;
+  width: 250px;
+  font-size: 20px;
+  border-radius: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+#button {
+  padding-left: 50%;
+}
+body {
+  background-color: lavender;
+}
